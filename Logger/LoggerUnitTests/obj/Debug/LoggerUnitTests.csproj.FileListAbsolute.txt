@@ -1,0 +1,13 @@
+E:\.NET workspace\Logger\Logger\LoggerUnitTests\bin\Debug\LoggerUnitTests.dll
+E:\.NET workspace\Logger\Logger\LoggerUnitTests\bin\Debug\LoggerUnitTests.pdb
+E:\.NET workspace\Logger\Logger\LoggerUnitTests\bin\Debug\Logger.exe
+E:\.NET workspace\Logger\Logger\LoggerUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\.NET workspace\Logger\Logger\LoggerUnitTests\bin\Debug\Logger.pdb
+E:\.NET workspace\Logger\Logger\LoggerUnitTests\obj\Debug\LoggerUnitTests.csprojResolveAssemblyReference.cache
+E:\.NET workspace\Logger\Logger\LoggerUnitTests\obj\Debug\LoggerUnitTests.dll
+E:\.NET workspace\Logger\Logger\LoggerUnitTests\obj\Debug\LoggerUnitTests.pdb
+E:\.NET workspace\Logger\Logger\LoggerUnitTests\bin\Debug\Castle.Core.dll
+E:\.NET workspace\Logger\Logger\LoggerUnitTests\bin\Debug\Moq.dll
+E:\.NET workspace\Logger\Logger\LoggerUnitTests\bin\Debug\Castle.Core.xml
+E:\.NET workspace\Logger\Logger\LoggerUnitTests\bin\Debug\Moq.pdb
+E:\.NET workspace\Logger\Logger\LoggerUnitTests\bin\Debug\Moq.xml

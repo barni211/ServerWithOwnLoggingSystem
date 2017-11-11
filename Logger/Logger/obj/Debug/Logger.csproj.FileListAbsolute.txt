@@ -1,0 +1,8 @@
+E:\.NET workspace\Logger\Logger\Logger\bin\Debug\Logger.exe.config
+E:\.NET workspace\Logger\Logger\Logger\bin\Debug\Logger.exe
+E:\.NET workspace\Logger\Logger\Logger\bin\Debug\Logger.pdb
+E:\.NET workspace\Logger\Logger\Logger\obj\Debug\Logger.exe
+E:\.NET workspace\Logger\Logger\Logger\obj\Debug\Logger.pdb
+E:\.NET workspace\Logger\Logger\Logger\bin\Debug\Logger.exe.CodeAnalysisLog.xml
+E:\.NET workspace\Logger\Logger\Logger\bin\Debug\Logger.exe.lastcodeanalysissucceeded
+E:\.NET workspace\Logger\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
