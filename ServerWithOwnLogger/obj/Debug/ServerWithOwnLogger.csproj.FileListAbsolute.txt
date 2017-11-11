@@ -1,0 +1,8 @@
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ServerWithOwnLogger\bin\Debug\ServerWithOwnLogger.exe.config
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ServerWithOwnLogger\bin\Debug\ServerWithOwnLogger.exe
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ServerWithOwnLogger\bin\Debug\ServerWithOwnLogger.pdb
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ServerWithOwnLogger\bin\Debug\Logger.exe
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ServerWithOwnLogger\bin\Debug\Logger.pdb
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ServerWithOwnLogger\obj\Debug\ServerWithOwnLogger.csprojResolveAssemblyReference.cache
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ServerWithOwnLogger\obj\Debug\ServerWithOwnLogger.exe
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ServerWithOwnLogger\obj\Debug\ServerWithOwnLogger.pdb

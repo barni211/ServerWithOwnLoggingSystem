@@ -1,0 +1,8 @@
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ClientToServer\bin\Debug\ClientToServer.exe.config
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ClientToServer\bin\Debug\ClientToServer.exe
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ClientToServer\bin\Debug\ClientToServer.pdb
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ClientToServer\bin\Debug\Logger.exe
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ClientToServer\bin\Debug\Logger.pdb
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ClientToServer\obj\Debug\ClientToServer.exe
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ClientToServer\obj\Debug\ClientToServer.pdb
+E:\.NET workspace\.NET-workspace\ServerWithOwnLogger\ClientToServer\obj\Debug\ClientToServer.csprojResolveAssemblyReference.cache
